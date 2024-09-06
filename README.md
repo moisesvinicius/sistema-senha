@@ -16,7 +16,9 @@ Este aplicativo é desenvolvido em Python e utiliza a biblioteca Tkinter para cr
 
 1. **Clone o Repositório**
 
-   Clone o Repositório para sua maquina.
+   Clone este repositório para sua máquina local usando:
+   
+   git clone https://github.com/moisesvinicius/sistema-senha.git
 
    
 
