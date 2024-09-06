@@ -16,7 +16,7 @@ Este aplicativo é desenvolvido em Python e utiliza a biblioteca Tkinter para cr
 
 1. **Clone o Repositório**
 
-   Clone este repositório para sua maquina.
+   Clone o Repositório para sua maquina.
 
    
 
