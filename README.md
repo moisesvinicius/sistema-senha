@@ -17,3 +17,7 @@ Este aplicativo é desenvolvido em Python e utiliza a biblioteca Tkinter para cr
 1. **Clone o Repositório**
 
    Clone este repositório para sua maquina.
+
+   
+
+   ![Imagem do sistema](https://github.com/moisesvinicius/sistema-senha/blob/main/imagem-sistema.png)
